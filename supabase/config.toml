@@ -1,0 +1,16 @@
+project_id = "vwyadqqqqciroactbsai"
+
+[functions.parse-statement]
+verify_jwt = false
+
+[functions.ai-interview]
+verify_jwt = false
+
+[functions.get-vapid-key]
+verify_jwt = false
+
+[functions.send-daily-reminders]
+verify_jwt = false
+
+[functions.parse-receipt]
+verify_jwt = false

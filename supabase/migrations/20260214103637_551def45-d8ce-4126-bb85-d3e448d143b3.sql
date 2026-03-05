@@ -1,0 +1,1 @@
+ALTER TABLE public.profiles ADD COLUMN auto_ignore_limit numeric DEFAULT 0;

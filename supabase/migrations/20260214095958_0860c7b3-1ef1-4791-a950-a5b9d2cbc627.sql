@@ -1,0 +1,1 @@
+ALTER TABLE public.imported_transactions ADD COLUMN notes text DEFAULT NULL;
