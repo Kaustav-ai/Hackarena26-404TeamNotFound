@@ -193,7 +193,3 @@ supabase functions deploy ai-interview
 🎓 **VIT Pune** — Software Engineering, 2nd Year
 
 ---
-
-## 📄 License
-
-MIT License — built with ❤️ at HackArena'26
